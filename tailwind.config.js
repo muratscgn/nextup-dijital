@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        nextuporange: "#F4823C"
+        nextuporange: "#F4823C",
+        nextupblue: "#2AA2E8"
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"]

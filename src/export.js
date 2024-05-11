@@ -5,9 +5,9 @@ import icon3 from "./assets/icon3.png";
 export const servicesinfo = [
   {
     icon: icon1,
-    title: "Social Media Strategy Development",
+    title: "Dijital Pazarlama Strateji Planı",
     about:
-      "The wise man therefore always holds in these matters to this principlesimilique sunt in culpaqui officia deserunt",
+      "İşletmenin hedef kitlesine, ihtiyaçlarına, hedeflerine ve bütçesine uygun olarak özelleştirilmiş bir dijital pazarlama strateji planı hazırlıyoruz.",
     label: "Read More",
   },
   {
