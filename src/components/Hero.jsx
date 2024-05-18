@@ -2,7 +2,7 @@ import AOS from "aos"
 import "aos/dist/aos.css"
 import { useEffect } from "react"
 import clients from "../assets/clients.png"
-import herobanner from "../assets/herobanner2.png"
+import herobanner from "../assets/herobanner.png"
 
 
 const Hero = () => {

@@ -1,7 +1,7 @@
 import { useEffect } from 'react'
 import AOS from "aos"
 import "aos/dist/aos.css"
-import about from "../assets/about2.png"
+import about from "../assets/about.png"
 import { FaChevronCircleRight } from 'react-icons/fa'
 
 

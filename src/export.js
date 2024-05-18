@@ -1,48 +1,53 @@
 import icon1 from "./assets/icon1.png";
 import icon2 from "./assets/icon2.png";
 import icon3 from "./assets/icon3.png";
+import insta from "./assets/instagram-logo.png";
+import face from "./assets/facebook-logo.png";
+import google from "./assets/googleads-logo.png";
+import tiktok from "./assets/tiktok-logo.png";
+
 
 export const servicesinfo = [
   {
     icon: icon1,
-    title: "Dijital Pazarlama Strateji Planı",
+    title: "Dijital Pazarlama Stratejisi",
     about:
       "İşletmenin hedef kitlesine, ihtiyaçlarına, hedeflerine ve bütçesine uygun olarak özelleştirilmiş bir dijital pazarlama strateji planı hazırlıyoruz.",
-    label: "Read More",
+    label: "Daha Fazlası İçin",
   },
   {
     icon: icon2,
-    title: "Content Creation and Management",
+    title: "Meta Ads Reklam Yönetimi",
     about:
-      "The wise man therefore always holds in these matters to this principlesimilique sunt in culpaqui officia deserunt",
-    label: "Read More",
+      "Meta reklam hizmeti ile Instagram ve Meta (facebook) olmak üzere iki farklı platformda kitlenin ilgi alanlarına yönelik etkili reklam kurgularıyla yüksek satışlar yapmana yardımcı oluyoruz.",
+    label: "Daha Fazlası İçin",
   },
   {
     icon: icon3,
-    title: "Community Engagement and Interaction",
+    title: "Google Ads Reklam Yönetimi",
     about:
-      "The wise man therefore always holds in these matters to this principlesimilique sunt in culpaqui officia deserunt",
-    label: "Read More",
+      "Tıklama başına ödeme (PPC) modeli sayesinde Google Ads uzmanlarımız hedef kitleye uygun anahtar kelime araştırması ve reklamlarla pazarlama bütçeni etkili bir şekilde yönetir.",
+    label: "Daha Fazlası İçin",
   },
 ];
 
 export const counts = [
   {
-    value: "90%",
-    title: "Conversion Rate",
+    logo: insta,
+    title: "İnstagram Reklamları",
   },
   {
-    value: "70K+",
-    title: "Active Users",
+    logo: face,
+    title: "Facebook Reklamları",
   },
   {
-    value: "47K+",
-    title: "Social Profiles",
+    logo: google,
+    title: "Google Reklamları",
   },
   {
-    value: "27K+",
-    title: "Active Followers",
-  },
+    logo: tiktok,
+    title: "Tiktok Reklamları",
+  }
 ];
 
 export const pricingplan = [
